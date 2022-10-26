@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+seaborn
+PyQt5
+https://github.com/hyperskill/hs-test-python/archive/release.tar.gz
